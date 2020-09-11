@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+}
+
+
+#menu{
+    background: #000;
+    height: auto;
+    
+}
+
+#menu ul {
+    background-color:#000;
+    list-style:none;
+}
+
+#menu ul li { display: inline; }
+
+#menu ul li a {
+    margin-left: 5%;
+    font-size: 15px;
+    padding: 30px 0px;
+    display: inline-block;
+    color: #A9A9A9;
+    text-decoration: none;
+    font-family:Times New Roman;
+    border-bottom:3px solid #EDEDED;
+}
+
+
+
+#linguagem{
+    text-align: center;
+    font-family: arial black;
+}
+
+footer{
+    text-align: center;
+    margin-top:1%;
+}
+
+#container{
+    width: 75%;
+    margin-top: -5%;
+    font-family:Segoe UI Light;
+    background: rgb(229, 223, 223);
+    margin-left: 10%;
+}
+
+.sobre_mim{
+    width: 75%;
+    height: 45%;
+    margin-left: 10%;
+    font-size: 17px;
+    font-family:Segoe UI Light;
+    margin-top: 4%; 
+}
+
+
+h1{
+    font-family:serif;
+    font-size: 250%;
+    margin-top: 12%;
+    font-family:Segoe UI Light;
+    }
+
